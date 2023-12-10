@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ildEmre
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently studying Computer Engineering
+-  Hi, I’m @ildEmre
+-  I’m interested in Machine Learning
+-  I’m currently studying Computer Engineering
 -    I'm also learning C++
-- 📫 h.emreildeniz@gmail.com
+-  h.emreildeniz@gmail.com
 
 <!---
 ildEmre/ildEmre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
